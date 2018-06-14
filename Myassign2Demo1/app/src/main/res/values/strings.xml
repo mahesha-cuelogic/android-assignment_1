@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Myassign2Demo1</string>
+    <string name="item_1">Products</string>
+    <string name="item_2">Cart</string>
+    <string name="call_vendor">Call Vendor</string>
+    <string name="remove_from_cart">Remove from cart</string>
+    <string name="cart">Cart</string>
+    <string name="total_price">Total Price:</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="vendor_address">Vendor Address :</string>
+    <string name="vendor_name">Vendor Name :</string>
+    <string name="price">Price :</string>
+    <string name="product_name">Product Name</string>
+    <string name="shop">Shop</string>
+    <string name="txt_count">txt_count</string>
+    <string name="txt_price">txt_Price</string>
+    <string name="vendoraddress">vendorAddress</string>
+    <string name="vendorname">vendorName</string>
+    <string name="productname">productname</string>
+
+</resources>
