@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="pick up the video"
+        android:onClick="pickTheVideo"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="play video on default player"
+        android:onClick="playVideo"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/urlTXT"
+        android:hint="plese enter url here..."/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="play video on exo player"
+        android:onClick="openExoPlayerActivity"/>
+
+    <VideoView
+        android:visibility="gone"
+        android:layout_width="333dp"
+        android:layout_height="333dp"
+        android:id="@+id/videoView"/>
+
+</LinearLayout>

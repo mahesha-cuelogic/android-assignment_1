@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "953894366423",
+    "firebase_url": "https://myfcmdemo1-23f6f.firebaseio.com",
+    "project_id": "myfcmdemo1-23f6f",
+    "storage_bucket": "myfcmdemo1-23f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953894366423:android:9c45bfd87472588c",
+        "android_client_info": {
+          "package_name": "com.example.maheshauti.myfcmdemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953894366423-9v4bd4np3qtcqfc3aubnie7if02m6qlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVb2Rt-DkOCHrh3dsbvpeif7KIhEdoDTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

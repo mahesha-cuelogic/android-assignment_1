@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SuperShoppers</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_data_base_helper">DataBaseHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_login_database_adapter">LoginDatabaseAdapter</string>
+    <string name="title_activity_sign_up">SignUPActivity</string>
+    <string name="title_activity_combine">CombineActivity</string>
+    <string name="title_activity_nakumatt">NakumattActivity</string>
+    <string name="title_activity_tuskys">TuskysActivity</string>
+    <string name="title_activity_naivas">NaivasActivity</string>
+    <string name="title_activity_uchumi">UchumiActivity</string>
+
+</resources>

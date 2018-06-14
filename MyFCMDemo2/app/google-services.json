@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "834606649195",
+    "firebase_url": "https://myfcmdemo2-a9a77.firebaseio.com",
+    "project_id": "myfcmdemo2-a9a77",
+    "storage_bucket": "myfcmdemo2-a9a77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834606649195:android:0a59b7cd84a40acb",
+        "android_client_info": {
+          "package_name": "com.example.maheshauti.myfcmdemo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834606649195-s8100gvr8pkq0suv7foppumm48gq05r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maheshauti.myfcmdemo2",
+            "certificate_hash": "0bfc058f39bce943e2bd16ce4ff6cb445fdf06f2"
+          }
+        },
+        {
+          "client_id": "834606649195-hsm7m70khlre4dgp165l04p9knk6qnql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUG3kTZuFH_cvMVodAMBLGGDqpl463ALw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834606649195-hsm7m70khlre4dgp165l04p9knk6qnql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
